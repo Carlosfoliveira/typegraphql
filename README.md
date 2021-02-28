@@ -1,2 +1,2 @@
 # TypeGraphQL
-Create and GraphQL API usin TypeGraphQL
+Create and GraphQL API using TypeGraphQL
